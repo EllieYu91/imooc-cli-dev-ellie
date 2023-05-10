@@ -1,0 +1,22 @@
+{
+  "name": "@imooc-cli-dev-ellie/core",
+  "version": "1.0.0",
+  "description": "imooc-cli-dev-ellie 的 core 包",
+  "author": "EllieYu91 <yjlssz@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@imooc-cli-dev-ellie/core.test.js"
+  }
+}

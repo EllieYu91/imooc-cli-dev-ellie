@@ -1,0 +1,22 @@
+{
+  "name": "@imooc-cli-dev-ellie/utils",
+  "version": "1.0.0",
+  "description": "imooc-cli-dev-ellie 的 utils 工具包",
+  "author": "EllieYu91 <yjlssz@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  }
+}
