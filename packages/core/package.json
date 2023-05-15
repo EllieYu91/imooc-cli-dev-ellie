@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-dev-ellie/core",
-  "version": "0.0.1",
+  "version": "1.1.2",
   "description": "imooc-cli-dev-ellie 的 core 包",
   "author": "ellieyu91 <yjlssz@163.com>",
   "homepage": "",
@@ -25,7 +25,7 @@
     "test2": "echo \"Run test2 from core\""
   },
   "dependencies": {
-    "@imooc-cli-dev-ellie/utils": "^0.0.1",
+    "@imooc-cli-dev-ellie/utils": "^1.1.2",
     "lodash": "^4.17.21"
   },
   "gitHead": "44a9969bc4498c5372afc40c56f361dd4fda2d42"
