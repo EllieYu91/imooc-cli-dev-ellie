@@ -5,7 +5,7 @@
   "author": "ellieyu91 <yjlssz@163.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "lib/utils.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -24,5 +24,5 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "gitHead": "8075db56e888ae2285b20479771b1d7ddb68315f"
+  "gitHead": "cef1ddbce367512ab16a095a104992b52145a12e"
 }
