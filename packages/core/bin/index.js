@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('hello imooc-cli');
+console.log('hello imooc-cli~');
