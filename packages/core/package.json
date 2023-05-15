@@ -6,8 +6,8 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "imooc-cli-dev":"bin/index.js"
+  "bin": {
+    "imooc-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -27,5 +27,6 @@
   "dependencies": {
     "@imooc-cli-dev-ellie/utils": "^0.0.1",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "44a9969bc4498c5372afc40c56f361dd4fda2d42"
 }
